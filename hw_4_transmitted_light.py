@@ -1,7 +1,4 @@
-""" this program ultimately calculates and then outputs the transmitted light intensity through the 
-multilayer system shown in the homework by accounting for reflection losses at the interfaces and absorption within each layer 
-using Beer-Lambert law
-"""
+# a more detailed explanation of how this program works can be found in the GitHub repository
 
 import math
 
