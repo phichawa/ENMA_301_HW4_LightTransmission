@@ -1,4 +1,4 @@
-# # a more detailed explanation of how this program works can be found in the GitHub repo I submitted to Canvas
+# a more detailed explanation of how this program works can be found in the README file 
 
 import math
 
