@@ -1,12 +1,12 @@
-# a more detailed explanation of how this program works can be found in the GitHub repository
+# # a more detailed explanation of how this program works can be found in the GitHub repo I submitted to Canvas
 
 import math
 
-# initial intensity
+# set the initial intensity
 I0 = 10.0
 I = I0
 
-# refractive indices (air included)
+# refractive indices (including air)
 n = [1.0, 1.489, 1.333, 1.460, 1.489, 1.0]
 
 # absorption coefficients (m^-1)
