@@ -1,4 +1,4 @@
-# a more detailed explanation of how this program works can be found in the README file 
+# a more detailed explanation of how this program works can be found in .pdf file in the repo
 
 import math
 
